@@ -8,5 +8,5 @@ Probio-genomic uses the publicly available and custom databases to identify prob
 Bile tolerance – Bile salt hydrolase (BSH)
 Acid tolerance – 
 Bacteriocin – BacteriocinDB (derived from BAGEL4 and Bactibase)
-Adhesion – *Lactobacillus* Adhesin Database (LAD)
+Adhesion – Lactobacillus Adhesin Database (LAD)
 ```
