@@ -5,6 +5,6 @@ Advancement of sequencing techniques has made it easy to perform whole genome se
 Probio-genomic uses the publicly available and custom databases to identify probiotic-trait associated genes. Probiotic traits and associated databases are as follow –
 
 Bile tolerance – Bile salt hydrolase (BSH)
-Acid tolerance – 
-Bacteriocin – BacteriocinDB (derived from BAGEL4 and Bactibase)
-Adhesion – *Lactobacillus* Adhesin Database (LAD)
+/Acid tolerance – 
+/Bacteriocin – BacteriocinDB (derived from BAGEL4 and Bactibase)
+/Adhesion – *Lactobacillus* Adhesin Database (LAD)
